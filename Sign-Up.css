@@ -134,6 +134,11 @@
     min-height: 908px;
   }
 
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .u-section-1 .u-layout-cell-2 {
     min-height: 100px;
   }
