@@ -171,12 +171,6 @@
     min-height: 343px;
   }
 
-  .u-section-1 .u-text-1 {
-    width: auto;
-    margin-left: 36px;
-    margin-right: 36px;
-  }
-
   .u-section-1 .u-repeater-1 {
     grid-template-columns: 100%;
   }
@@ -205,10 +199,6 @@
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 216px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: auto;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 710px;
