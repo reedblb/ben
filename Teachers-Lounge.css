@@ -199,11 +199,19 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 223px;
+    min-height: 1692px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 3rem;
+    width: auto;
+    margin-top: 61px;
+    margin-left: -1px;
+    margin-right: -1px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 57px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 710px;
