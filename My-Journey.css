@@ -317,19 +317,3 @@
   font-size: 1.25rem;
   margin: 45px 0 60px;
 }
-
-@media (max-width: 991px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 641px;
-  }
-
-  .u-section-2 .u-text-1 {
-    font-size: 3.75rem;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-2 .u-text-1 {
-    font-size: 1.5rem;
-  }
-}
